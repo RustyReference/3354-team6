@@ -1,1 +1,25 @@
-
+1. User Accounts
+  1.1 Creating Accounts
+  1.2 Updating Accounts
+  1.3 Deleting Accounts
+2. Item Listings
+  2.1 Listings display
+  2.2 Listings should display updated information
+3. Searching for Items
+  3.1 Filters
+  3.2 Sorting
+4. Renting an Item
+  4.1 Initiate interest in renting the item
+  4.2 Process for secure pass-off
+  4.3 Relay applicable instructions for the item
+  4.4 Item return process
+5. Payments and Deposits
+  5.1 Payments
+  5.2 Deposits
+6. Reviews
+  6.1 First glance Rating (Stars)
+  6.2 Option to write a review
+  6.3 Reviews for renter
+  6.4 Reviews for rentee
+7. Customer Service
+  7.1 Contact Information
