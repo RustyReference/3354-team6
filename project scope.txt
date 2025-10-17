@@ -1,25 +1,32 @@
-1. User Accounts
-  1.1 Creating Accounts
-  1.2 Updating Accounts
-  1.3 Deleting Accounts
-2. Item Listings
-  2.1 Listings display
-  2.2 Listings should display updated information
-3. Searching for Items
-  3.1 Filters
-  3.2 Sorting
-4. Renting an Item
-  4.1 Initiate interest in renting the item
-  4.2 Process for secure pass-off
-  4.3 Relay applicable instructions for the item
-  4.4 Item return process
+1. User Account Management
+  1.1 Registration
+  1.2 Authentication
+  1.3 Profile Management
+  1.4 Account Deletion
+  1.5 Role Management
+2. Item Listing Management
+  2.1 Listing Creation
+  2.2 Listing Updates
+  2.3 Listing Deletion
+  2.4 View Listings
+3. Item Search and Filtering
+  3.1 Search Functionality
+  3.2 Filtering and Sorting
+4. Renting and Reservations
+  4.1 Booking System
+  4.2 Availability Checking
+  4.3 Owner Approval
+  4.4 Return Confirmation
 5. Payments and Deposits
-  5.1 Payments
-  5.2 Deposits
+  5.1 Online Payment Integration
+  5.2 Deposit Handling
+  5.3 Transaction History
+  5.4 Automated Invoices
 6. Reviews
-  6.1 First glance Rating (Stars)
-  6.2 Option to write a review
+  6.1 Average Rating Display
   6.3 Reviews for renter
   6.4 Reviews for rentee
-7. Customer Service
-  7.1 Contact Information
+7. Customer Support
+  7.1 Help Center
+  7.2 Chat/Messaging System
+  7.3 Automated Notifications
